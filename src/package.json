@@ -1,0 +1,16 @@
+{
+  "name": "lfm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.4.0",
+    "cryptr": "^6.0.2",
+    "express": "^4.17.1"
+  }
+}
