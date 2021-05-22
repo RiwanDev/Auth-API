@@ -13,4 +13,4 @@ Login &amp; Register API based on SQLite file, with password crypting and UUID S
 ### Response Body: { `code`, `reason`, `message` }
 ## `/login` POST
 ### Request Body: { `email`,`password` }
-### Response Body: { `code`, `reason`, `message` } || { `firstname`,`lastname`,`email`,`phone`,`uuid`}
+### Response Body: { `code`, `reason`, `message` } || { `firstname`,`lastname`,`email`,`phone`,`uuid` }
