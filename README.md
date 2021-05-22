@@ -1,5 +1,5 @@
 # Auth API
-Login &amp; Register API based on SQLite file, with password crypting and UUID System
+Login &amp; Register API based on SQLite file, with password crypting and UUID System, using [express](https://www.npmjs.com/package/express), [cryptr](https://www.npmjs.com/package/cryptr) and [better-sqlite3](https://www.npmjs.com/package/better-sqlite3) - I'm french and I forgot to translate comments etc, make yourself
 
 # Install / Start
 1. `cd src` 
